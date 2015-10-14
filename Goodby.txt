@@ -1,2 +1,2 @@
-print("Goodby")
-print("Goodby, @username")
+print("Goodby;")
+print("Goodby, @username;")
