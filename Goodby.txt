@@ -1,2 +1,1 @@
 print("Goodby")
-print("Goodby, @username")
